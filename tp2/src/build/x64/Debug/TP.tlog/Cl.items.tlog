@@ -1,0 +1,13 @@
+C:\Users\libai\Desktop\INF2705\tp2\imgui\imgui.cpp;C:\Users\libai\Desktop\INF2705\tp2\src\build\x64\Debug\imgui.obj
+C:\Users\libai\Desktop\INF2705\tp2\imgui\imgui_demo.cpp;C:\Users\libai\Desktop\INF2705\tp2\src\build\x64\Debug\imgui_demo.obj
+C:\Users\libai\Desktop\INF2705\tp2\imgui\imgui_draw.cpp;C:\Users\libai\Desktop\INF2705\tp2\src\build\x64\Debug\imgui_draw.obj
+C:\Users\libai\Desktop\INF2705\tp2\imgui\imgui_impl_opengl3.cpp;C:\Users\libai\Desktop\INF2705\tp2\src\build\x64\Debug\imgui_impl_opengl3.obj
+C:\Users\libai\Desktop\INF2705\tp2\imgui\imgui_tables.cpp;C:\Users\libai\Desktop\INF2705\tp2\src\build\x64\Debug\imgui_tables.obj
+C:\Users\libai\Desktop\INF2705\tp2\imgui\imgui_widgets.cpp;C:\Users\libai\Desktop\INF2705\tp2\src\build\x64\Debug\imgui_widgets.obj
+C:\Users\libai\Desktop\INF2705\tp2\src\car.cpp;C:\Users\libai\Desktop\INF2705\tp2\src\build\x64\Debug\car.obj
+C:\Users\libai\Desktop\INF2705\tp2\src\main.cpp;C:\Users\libai\Desktop\INF2705\tp2\src\build\x64\Debug\main.obj
+C:\Users\libai\Desktop\INF2705\tp2\src\model.cpp;C:\Users\libai\Desktop\INF2705\tp2\src\build\x64\Debug\model.obj
+C:\Users\libai\Desktop\INF2705\tp2\src\shaders.cpp;C:\Users\libai\Desktop\INF2705\tp2\src\build\x64\Debug\shaders.obj
+C:\Users\libai\Desktop\INF2705\tp2\src\shader_program.cpp;C:\Users\libai\Desktop\INF2705\tp2\src\build\x64\Debug\shader_program.obj
+C:\Users\libai\Desktop\INF2705\tp2\src\textures.cpp;C:\Users\libai\Desktop\INF2705\tp2\src\build\x64\Debug\textures.obj
+C:\Users\libai\Desktop\INF2705\tp2\src\uniform_buffer.cpp;C:\Users\libai\Desktop\INF2705\tp2\src\build\x64\Debug\uniform_buffer.obj

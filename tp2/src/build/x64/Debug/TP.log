@@ -1,0 +1,131 @@
+﻿  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_opengl3.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  car.cpp
+C:\Users\libai\Desktop\INF2705\tp2\src\car.hpp(1,1): warning C4828: The file contains a character starting at offset 0x13e that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'car.cpp')
+  
+C:\Users\libai\Desktop\INF2705\tp2\src\car.hpp(1,1): warning C4828: The file contains a character starting at offset 0x15d that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'car.cpp')
+  
+C:\Users\libai\Desktop\INF2705\tp2\src\car.hpp(1,1): warning C4828: The file contains a character starting at offset 0x161 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'car.cpp')
+  
+C:\Users\libai\Desktop\INF2705\tp2\src\car.hpp(1,1): warning C4828: The file contains a character starting at offset 0x1d1 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'car.cpp')
+  
+C:\Users\libai\Desktop\INF2705\tp2\src\car.hpp(1,1): warning C4828: The file contains a character starting at offset 0x1d5 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'car.cpp')
+  
+C:\Users\libai\Desktop\INF2705\tp2\src\car.hpp(1,1): warning C4828: The file contains a character starting at offset 0x3e0 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'car.cpp')
+  
+C:\Users\libai\Desktop\INF2705\tp2\src\car.hpp(1,1): warning C4828: The file contains a character starting at offset 0x3e5 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'car.cpp')
+  
+C:\Users\libai\Desktop\INF2705\tp2\src\car.cpp(81,60): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+C:\Users\libai\Desktop\INF2705\tp2\inf2705\utils.hpp(94,103): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+C:\Users\libai\Desktop\INF2705\tp2\inf2705\utils.hpp(94,103): warning C4244:         with
+C:\Users\libai\Desktop\INF2705\tp2\inf2705\utils.hpp(94,103): warning C4244:         [
+C:\Users\libai\Desktop\INF2705\tp2\inf2705\utils.hpp(94,103): warning C4244:             _Rep=std::chrono::system_clock::rep
+C:\Users\libai\Desktop\INF2705\tp2\inf2705\utils.hpp(94,103): warning C4244:         ]
+  (compiling source file 'main.cpp')
+  
+C:\Users\libai\Desktop\INF2705\tp2\inf2705\OpenGLApplication.hpp(294,43): warning C4244: '=': conversion from 'const T' to 'float', possible loss of data
+C:\Users\libai\Desktop\INF2705\tp2\inf2705\OpenGLApplication.hpp(294,43): warning C4244:         with
+C:\Users\libai\Desktop\INF2705\tp2\inf2705\OpenGLApplication.hpp(294,43): warning C4244:         [
+C:\Users\libai\Desktop\INF2705\tp2\inf2705\OpenGLApplication.hpp(294,43): warning C4244:             T=unsigned int
+C:\Users\libai\Desktop\INF2705\tp2\inf2705\OpenGLApplication.hpp(294,43): warning C4244:         ]
+  (compiling source file 'main.cpp')
+  
+C:\Users\libai\Desktop\INF2705\tp2\inf2705\OpenGLApplication.hpp(295,43): warning C4244: '=': conversion from 'const T' to 'float', possible loss of data
+C:\Users\libai\Desktop\INF2705\tp2\inf2705\OpenGLApplication.hpp(295,43): warning C4244:         with
+C:\Users\libai\Desktop\INF2705\tp2\inf2705\OpenGLApplication.hpp(295,43): warning C4244:         [
+C:\Users\libai\Desktop\INF2705\tp2\inf2705\OpenGLApplication.hpp(295,43): warning C4244:             T=unsigned int
+C:\Users\libai\Desktop\INF2705\tp2\inf2705\OpenGLApplication.hpp(295,43): warning C4244:         ]
+  (compiling source file 'main.cpp')
+  
+C:\Users\libai\Desktop\INF2705\tp2\inf2705\OpenGLApplication.hpp(314,54): warning C4244: 'argument': conversion from 'const T' to 'float', possible loss of data
+C:\Users\libai\Desktop\INF2705\tp2\inf2705\OpenGLApplication.hpp(314,54): warning C4244:         with
+C:\Users\libai\Desktop\INF2705\tp2\inf2705\OpenGLApplication.hpp(314,54): warning C4244:         [
+C:\Users\libai\Desktop\INF2705\tp2\inf2705\OpenGLApplication.hpp(314,54): warning C4244:             T=int
+C:\Users\libai\Desktop\INF2705\tp2\inf2705\OpenGLApplication.hpp(314,54): warning C4244:         ]
+  (compiling source file 'main.cpp')
+  
+C:\Users\libai\Desktop\INF2705\tp2\inf2705\OpenGLApplication.hpp(314,39): warning C4244: 'argument': conversion from 'const T' to 'float', possible loss of data
+C:\Users\libai\Desktop\INF2705\tp2\inf2705\OpenGLApplication.hpp(314,39): warning C4244:         with
+C:\Users\libai\Desktop\INF2705\tp2\inf2705\OpenGLApplication.hpp(314,39): warning C4244:         [
+C:\Users\libai\Desktop\INF2705\tp2\inf2705\OpenGLApplication.hpp(314,39): warning C4244:             T=int
+C:\Users\libai\Desktop\INF2705\tp2\inf2705\OpenGLApplication.hpp(314,39): warning C4244:         ]
+  (compiling source file 'main.cpp')
+  
+C:\Users\libai\Desktop\INF2705\tp2\inf2705\OpenGLApplication.hpp(356,51): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+C:\Users\libai\Desktop\INF2705\tp2\inf2705\OpenGLApplication.hpp(356,51): warning C4244:         with
+C:\Users\libai\Desktop\INF2705\tp2\inf2705\OpenGLApplication.hpp(356,51): warning C4244:         [
+C:\Users\libai\Desktop\INF2705\tp2\inf2705\OpenGLApplication.hpp(356,51): warning C4244:             T=unsigned int
+C:\Users\libai\Desktop\INF2705\tp2\inf2705\OpenGLApplication.hpp(356,51): warning C4244:         ]
+  (compiling source file 'main.cpp')
+  
+C:\Users\libai\Desktop\INF2705\tp2\inf2705\OpenGLApplication.hpp(357,51): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+C:\Users\libai\Desktop\INF2705\tp2\inf2705\OpenGLApplication.hpp(357,51): warning C4244:         with
+C:\Users\libai\Desktop\INF2705\tp2\inf2705\OpenGLApplication.hpp(357,51): warning C4244:         [
+C:\Users\libai\Desktop\INF2705\tp2\inf2705\OpenGLApplication.hpp(357,51): warning C4244:             T=unsigned int
+C:\Users\libai\Desktop\INF2705\tp2\inf2705\OpenGLApplication.hpp(357,51): warning C4244:         ]
+  (compiling source file 'main.cpp')
+  
+C:\Users\libai\Desktop\INF2705\tp2\src\car.hpp(1,1): warning C4828: The file contains a character starting at offset 0x13e that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+C:\Users\libai\Desktop\INF2705\tp2\src\car.hpp(1,1): warning C4828: The file contains a character starting at offset 0x15d that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+C:\Users\libai\Desktop\INF2705\tp2\src\car.hpp(1,1): warning C4828: The file contains a character starting at offset 0x161 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+C:\Users\libai\Desktop\INF2705\tp2\src\car.hpp(1,1): warning C4828: The file contains a character starting at offset 0x1d1 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+C:\Users\libai\Desktop\INF2705\tp2\src\car.hpp(1,1): warning C4828: The file contains a character starting at offset 0x1d5 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+C:\Users\libai\Desktop\INF2705\tp2\src\car.hpp(1,1): warning C4828: The file contains a character starting at offset 0x3e0 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+C:\Users\libai\Desktop\INF2705\tp2\src\car.hpp(1,1): warning C4828: The file contains a character starting at offset 0x3e5 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+C:\Users\libai\Desktop\INF2705\tp2\src\main.cpp(365,75): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+C:\Users\libai\Desktop\INF2705\tp2\src\main.cpp(365,75): warning C4244:         with
+C:\Users\libai\Desktop\INF2705\tp2\src\main.cpp(365,75): warning C4244:         [
+C:\Users\libai\Desktop\INF2705\tp2\src\main.cpp(365,75): warning C4244:             T=int
+C:\Users\libai\Desktop\INF2705\tp2\src\main.cpp(365,75): warning C4244:         ]
+C:\Users\libai\Desktop\INF2705\tp2\src\main.cpp(365,54): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+C:\Users\libai\Desktop\INF2705\tp2\src\main.cpp(365,54): warning C4244:         with
+C:\Users\libai\Desktop\INF2705\tp2\src\main.cpp(365,54): warning C4244:         [
+C:\Users\libai\Desktop\INF2705\tp2\src\main.cpp(365,54): warning C4244:             T=int
+C:\Users\libai\Desktop\INF2705\tp2\src\main.cpp(365,54): warning C4244:         ]
+  model.cpp
+C:\Users\libai\Desktop\INF2705\tp2\src\model.cpp(169,31): warning C4267: '=': conversion from 'size_t' to 'gl::GLsizei', possible loss of data
+C:\Users\libai\Desktop\INF2705\tp2\src\model.cpp(57,32): warning C4101: 'e': unreferenced local variable
+C:\Users\libai\Desktop\INF2705\tp2\src\model.cpp(69,32): warning C4101: 'e': unreferenced local variable
+C:\Users\libai\Desktop\INF2705\tp2\src\model.cpp(80,32): warning C4101: 'e': unreferenced local variable
+C:\Users\libai\Desktop\INF2705\tp2\src\model.cpp(199,27): warning C4267: '=': conversion from 'size_t' to 'gl::GLsizei', possible loss of data
+  shaders.cpp
+  shader_program.cpp
+C:\Users\libai\Desktop\INF2705\tp2\inf2705\utils.hpp(94,103): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+C:\Users\libai\Desktop\INF2705\tp2\inf2705\utils.hpp(94,103): warning C4244:         with
+C:\Users\libai\Desktop\INF2705\tp2\inf2705\utils.hpp(94,103): warning C4244:         [
+C:\Users\libai\Desktop\INF2705\tp2\inf2705\utils.hpp(94,103): warning C4244:             _Rep=std::chrono::system_clock::rep
+C:\Users\libai\Desktop\INF2705\tp2\inf2705\utils.hpp(94,103): warning C4244:         ]
+  (compiling source file 'shader_program.cpp')
+  
+  textures.cpp
+  uniform_buffer.cpp
+  Generating Code...
+  TP.vcxproj -> C:\Users\libai\Desktop\INF2705\tp2\src\build\x64\Debug\TP.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
